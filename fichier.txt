@@ -1,1 +1,2 @@
-Je suis une ligne de fichier
+Je suis une ligne de fichier.
+je suis une deuxieme ligne de fichier.
